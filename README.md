@@ -30,3 +30,5 @@ Despite strong revenue performance, a significant portion of transactions genera
 ## 🛠 Tools Used
 - Power BI
 - DAX (for calculated measures and KPIs)
+## 📊 Dashboard Preview
+![Superstore Dashboard] (Super Store Sales Dashboard)
